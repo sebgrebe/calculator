@@ -1,2 +1,3 @@
 # calculator
-Calculator built for freeCodeCamp's Front End Development Certification
+Calculator built with JavaScript, jQuery, and Bootstrap.
+Built for freeCodeCamp's Front End Development track.
